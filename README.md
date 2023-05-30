@@ -1,3 +1,2 @@
-# Presentations
-1. Insights to OpenAI API
-# Files:
+# Materials
+1. Insights to OpenAI API (openai folder)
