@@ -1,5 +1,9 @@
 # DermAI-BuildingBloCS-2023
 
+<a target="_blank" href="https://colab.research.google.com/github/asrjc/bbcs2023/blob/main/group-k1-model/DermAI-BuildingBloCS-2023/Notebooks/DermAI.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 
 <b> Inspiration </b>:
 
